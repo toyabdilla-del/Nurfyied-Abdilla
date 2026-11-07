@@ -1,0 +1,10 @@
+{
+  "name": "Sinama - Sama Language & Cultural Heritage",
+  "description": "Learn the Sinama language of the Sama-Bajau people with authentic audio pronunciation guides, phonetic breakdown, interactive Lepa boat craft, Tepo weaving, and Gabbang music.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
